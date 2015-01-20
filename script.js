@@ -7,9 +7,9 @@ var x=0;
 var y=0;
 var newDiv=document.createElement("div");
 var newRow = document.createElement("div");
-var numPerSide=16;
+var numPerSide=40;
 var cellWidthPercent = 100 / numPerSide;
-var newNum=16;
+var newNum=40;
 
 function drawGrid(numBoxes){
 
